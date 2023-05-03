@@ -1,1 +1,0 @@
-{"gameName":"Drag Around 3D","storeLink":"https://play.google.com/store/apps/details?id=com.iplaygames.dragaround3d","imageUrls":["https://raw.githubusercontent.com/hamzaroshangames/CrossPromo/main/ICON.png"]}
